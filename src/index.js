@@ -8,7 +8,7 @@ import "mdbreact/dist/css/mdb.css";
 import { NavbarFeatures } from "./navbar.jsx";
 import { LoginPage } from "./login-page.jsx";
 
-import "./styles.css";
+import "./styles.scss";
 
 function App() {
   return (
